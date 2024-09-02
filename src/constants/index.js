@@ -167,27 +167,35 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "It was difficult gathering images that would look good on our website, but Rick proved me wrong. He not only managed the midjourney prompts, but also made sure the designs were seamless.",
+    name: "Santosh Shitole",
+    designation: "CEO",
+    company: "PhotoExpress",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I've never met a web developer who truly cares about their clients' success like Rick does. We were on a deadline to go live, he not only managed the website effortlessly but also maintained the product uploads without a problem.",
+    name: "Mamta Kedia",
+    designation: "CEO",
+    company: "Bagzillaoffical",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
+  },
+  {
+    testimonial:
+      "We needed a website that had complete control over the offers to be distributed for wholesaler and normal customer, with reward points and subcription. Rick not only managed to pull it off, but also after he optimized both of our websites, our traffic increased by 30%. We can't thank him enough!",
+    name: "AnandAnand Sivasankaran",
+    designation: "CEO",
+    company: "Genietrox",
+    image: "https://randomuser.me/api/portraits/men/6.jpg",
+  },
+  {
+    testimonial:
+      "As a freelancer, Akarshan was very punctual with his deliverables, and always communicated whatsoever the update might be. He showcased exceptional talent in maintaining the UI and responsiveness of the website.",
+    name: "Don Pennings",
+    designation: "CEO",
+    company: "Lake Management Inc",
+    image: "https://randomuser.me/api/portraits/men/6.jpg",
   },
 ];
 
