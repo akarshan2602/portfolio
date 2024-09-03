@@ -76,8 +76,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Shopify",
+    icon: shopify,
   },
   {
     name: "React JS",
@@ -210,8 +210,8 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
-        color: "green-text-gradient",
+        name: "firebase",
+        color: "orange-text-gradient",
       },
       {
         name: "tailwind",
